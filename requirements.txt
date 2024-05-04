@@ -1,0 +1,5 @@
+aiogram==3.3.0
+environs==10.1.0
+pytz==2023.4
+prettytable==3.9.0
+apscheduler==3.10.4
